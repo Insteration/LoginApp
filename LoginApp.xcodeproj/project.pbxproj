@@ -12,6 +12,7 @@
 		D9C7457021F7231E00AD51B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9C7456E21F7231E00AD51B2 /* Main.storyboard */; };
 		D9C7457221F7231F00AD51B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9C7457121F7231F00AD51B2 /* Assets.xcassets */; };
 		D9C7457521F7231F00AD51B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9C7457321F7231F00AD51B2 /* LaunchScreen.storyboard */; };
+		D9C7457D21F86ED400AD51B2 /* CatRegisterAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C7457C21F86ED400AD51B2 /* CatRegisterAccountViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D9C7457121F7231F00AD51B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9C7457421F7231F00AD51B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9C7457621F7231F00AD51B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9C7457C21F86ED400AD51B2 /* CatRegisterAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatRegisterAccountViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D9C7456A21F7231E00AD51B2 /* AppDelegate.swift */,
 				D9C7456C21F7231E00AD51B2 /* ViewController.swift */,
 				D9C7456E21F7231E00AD51B2 /* Main.storyboard */,
+				D9C7457C21F86ED400AD51B2 /* CatRegisterAccountViewController.swift */,
 				D9C7457121F7231F00AD51B2 /* Assets.xcassets */,
 				D9C7457321F7231F00AD51B2 /* LaunchScreen.storyboard */,
 				D9C7457621F7231F00AD51B2 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9C7456D21F7231E00AD51B2 /* ViewController.swift in Sources */,
+				D9C7457D21F86ED400AD51B2 /* CatRegisterAccountViewController.swift in Sources */,
 				D9C7456B21F7231E00AD51B2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
